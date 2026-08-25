@@ -1,4 +1,4 @@
-# 📰 Fake News Generator
+# 📰 _Fake News Generator_
 
 A simple Python-based Fake News Generator that creates fictional news headlines and articles for entertainment, learning, and testing purposes. This project demonstrates the use of Python, randomization, and text generation techniques to generate realistic-looking but completely fictional news content.
 
