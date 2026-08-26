@@ -61,7 +61,7 @@ python main.py
 
 ---
 
-## 💡 How It Works
+## 💡 _How It Works_
 
 1. Select or randomly choose a news category.
 2. The program combines predefined templates with random words and phrases.
