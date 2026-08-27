@@ -84,7 +84,7 @@ Researchers have announced a groundbreaking AI system capable of analyzing sleep
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 _Learning Objectives_
 
 This project helps beginners understand:
 
