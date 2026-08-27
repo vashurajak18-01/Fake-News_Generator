@@ -119,7 +119,7 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+## 📜 _License_
 
 This project is licensed under the MIT License.
 
