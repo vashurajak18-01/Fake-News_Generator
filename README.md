@@ -25,7 +25,7 @@ A simple Python-based Fake News Generator that creates fictional news headlines 
 
 ---
 
-## 📂 Project Structure
+## 📂 _Project Structure_
 
 ```
 Fake-News-Generator/
