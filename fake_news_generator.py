@@ -27,8 +27,7 @@ actions = [
     "celebrates",
     "wins the final",
     "punishes the students",
-    "is playing with kid's toys"
-   
+    "is playing with kid's toys" 
 ]
 
 # Creating list of places
