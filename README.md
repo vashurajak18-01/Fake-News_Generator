@@ -108,7 +108,7 @@ This project helps beginners understand:
 
 ---
 
-## 🤝 Contributing
+## 🤝 _Contributing_
 
 Contributions are welcome!
 
