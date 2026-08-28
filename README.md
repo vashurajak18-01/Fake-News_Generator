@@ -125,7 +125,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 _Author_
 
 **Vashu Rajak**
 
