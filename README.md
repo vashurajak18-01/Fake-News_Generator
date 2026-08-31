@@ -8,7 +8,7 @@ _A simple Python-based Fake News Generator that creates fictional news headlines
 
 ## 🚀 _Features_
 
-- Generate random fake news headlines
+- **Generate random fake news headlines**
 - Create fictional news articles
 - Multiple news categories
 - Easy-to-use command-line interface
