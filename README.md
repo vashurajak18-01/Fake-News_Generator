@@ -127,7 +127,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 _Author_
 
-**Vashu Rajak**
+**_Vashu Rajak_**
 
 - GitHub: _https://github.com/vashurajak18-01_
 - LinkedIn: _www.linkedin.com/in/vashurajak18-01_
