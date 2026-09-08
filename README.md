@@ -97,7 +97,7 @@ This project helps beginners understand:
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 **Future Improvements**
 
 - GUI using Tkinter
 - AI-generated news using NLP models
