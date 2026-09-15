@@ -39,7 +39,7 @@ Fake-News-Generator/
 
 ---
 
-## ⚙️ _Installation_
+## ⚙️ *_Installation_*
 
 1. Clone the repository
 
