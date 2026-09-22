@@ -21,7 +21,7 @@ _A simple Python-based Fake News Generator that creates fictional news headlines
 
 - **Python 3**
 - **Random Module**
-- String Manipulation
+- **String Manipulation**
 
 ---
 
