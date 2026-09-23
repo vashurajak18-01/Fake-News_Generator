@@ -13,7 +13,7 @@
 - **_Multiple news categories_**
 - **Easy-to-use command-line interface**
 - **Randomized content generation**
-- **Beginner-friendly Python project**
+- **_Beginner-friendly Python project_**
 
 ---
 
