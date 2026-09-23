@@ -8,7 +8,7 @@
 
 ## 🚀 **__Features__**
 
-- **Generate random fake news headlines**
+- **_Generate random fake news headlines_**
 - **Create fictional news articles**
 - **Multiple news categories**
 - **Easy-to-use command-line interface**
