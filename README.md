@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 ***__Features__***
+## 🚀 ***___Features___***
 
 - **__Generate random fake news headlines__**
 - **__Create fictional news articles__**
