@@ -19,7 +19,7 @@
 
 ## 🛠️ ***__Technologies Used__***
 
-- **_Python 3_**
+- **__Python 3__**
 - **_Random Module_**
 - **_String Manipulation_**
 
