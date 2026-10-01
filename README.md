@@ -21,7 +21,7 @@
 
 - **__Python 3__**
 - **__Random Module__**
-- **_String Manipulation_**
+- **__String Manipulation__**
 
 ---
 
