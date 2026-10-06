@@ -12,7 +12,7 @@
 - **__Create fictional news articles__**
 - **__Multiple news categories__**
 - **__Easy-to-use command-line interface__**
-- **_Randomized content generation_**
+- **__Randomized content generation__**
 - **_Beginner-friendly Python project_**
 
 ---
