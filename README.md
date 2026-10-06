@@ -11,7 +11,7 @@
 - **__Generate random fake news headlines__**
 - **__Create fictional news articles__**
 - **__Multiple news categories__**
-- **_Easy-to-use command-line interface_**
+- **__Easy-to-use command-line interface__**
 - **_Randomized content generation_**
 - **_Beginner-friendly Python project_**
 
