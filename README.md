@@ -25,8 +25,7 @@
 
 ---
 
-## 📂 **__Project Structure__*8
-
+## 📂 **__Project Structure__**
 ```
 Fake-News-Generator/
 │
