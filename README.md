@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ **___Technologies Used__**
+## 🛠️ **___Technologies Used___**
 
 - **__Python 3__**
 - **__Random Module__**
